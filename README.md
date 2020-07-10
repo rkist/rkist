@@ -1,4 +1,4 @@
-### Hi there 👋
+### Calm waters make bad sailors
 
 <!--
 **rkist/rkist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
