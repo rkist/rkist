@@ -1,8 +1,8 @@
 ### Calm waters make bad sailors
 
-<img src="https://github.com/rkist/github_snake/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/raulkist/github_snake/blob/output/github-contribution-grid-snake.svg">
 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **rkist/rkist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
