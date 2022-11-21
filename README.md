@@ -2,8 +2,7 @@
 
 <img src="https://github.com/rkist/github_snake/blob/output/github-contribution-grid-snake.svg">
 
-<a href="https://www.linkedin.com/in/raulkist/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **rkist/rkist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
